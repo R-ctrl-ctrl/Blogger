@@ -1,0 +1,69 @@
+.main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.blogimg{
+    height: 60vh;
+    width: 80%;
+}
+
+.heading{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.content{
+    word-spacing: 3px;
+    width: 80%;
+    font-size: 24px;
+}
+
+.loadbtn{
+    margin-top: 10px;
+    padding: 10px 8px;
+    background-color: green;
+    color: white;
+    cursor: pointer;
+}
+
+.clickme{
+    margin-top: 10px;
+    padding: 10px 8px;
+    background-color: green;
+    color: white;
+    cursor: pointer;   
+}
+
+
+.commentinp{
+    width: 50%;
+    padding: 10px 8px;
+}
+
+.commentsection{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.comment{
+    width: 70%;
+    border: 2px solid black;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.first{
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.second{
+    font-size: 18px;
+}
